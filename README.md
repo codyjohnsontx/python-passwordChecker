@@ -8,12 +8,13 @@ This program uses the "Have I Been Pwned" API to check if your passwords have be
 The program hashes the passwords and sends the first 5 characters of each hashed password to the "Have I Been Pwned" API. The API then responds with a list of known leaked hashed password suffixes and how many times they've appeared in data breaches. If the remaining characters of your hashed password are found in the API's response, then your password has been leaked.
 
 <h2>Requirements:</h2>
-Python 3
-<br>
-The requests package 
-<br>
-(you can install it with pip install requests)
-
+<ul>
+  <li>Python 3</li>
+  <li>The requests package</li>
+  <ul>
+    <li>(you can install it with pip install requests)</li>
+  </ul>
+</ul>
 <h2>How to Run</h2>
 You can run this program from the command line and pass in the passwords you want to check as command-line arguments. 
 
