@@ -5,7 +5,11 @@
 This program uses the "Have I Been Pwned" API to check if your passwords have been leaked in any data breaches.
 
 <h2>How It Works</h2>
-The program hashes the passwords and sends the first 5 characters of each hashed password to the "Have I Been Pwned" API. The API then responds with a list of known leaked hashed password suffixes and how many times they've appeared in data breaches. If the remaining characters of your hashed password are found in the API's response, then your password has been leaked.
+<ul>
+  <li>The program hashes the passwords and sends the first 5 characters of each hashed password to the "Have I Been Pwned" API.</li>
+  <li>The API then responds with a list of known leaked hashed password suffixes and how many times they've appeared in data breaches.</li>
+  <li>If the remaining characters of your hashed password are found in the API's response, then your password has been leaked.</li>
+</ul>
 
 <h2>Requirements:</h2>
 <ul>
