@@ -9,7 +9,10 @@ The program hashes the passwords and sends the first 5 characters of each hashed
 
 <h2>Requirements:</h2>
 Python 3
-The requests package (you can install it with pip install requests)
+<br>
+The requests package 
+<br>
+(you can install it with pip install requests)
 
 <h2>How to Run</h2>
 You can run this program from the command line and pass in the passwords you want to check as command-line arguments. 
