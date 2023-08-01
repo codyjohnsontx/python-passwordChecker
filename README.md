@@ -22,7 +22,7 @@ This program uses the "Have I Been Pwned" API to check if your passwords have be
 <h2>How to Run</h2>
 You can run this program from the command line and pass in the passwords you want to check as command-line arguments. 
 
-<h2>Here's an example of how to run the program:</h2>
+<h2>Here's an example of how to run the program in your terminal:</h2>
 python3 script.py password1 password2 password3
 
 <h3>Just replace password1, password2, and password3 with the passwords you want to check!</h3>
