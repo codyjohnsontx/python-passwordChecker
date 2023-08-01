@@ -1,6 +1,6 @@
 # python-passwordChecker
 
-Password Security Check
+Password Security Check <br>
 This program uses the "Have I Been Pwned" API to check if your passwords have been leaked in any data breaches.
 
 ##How It Works
