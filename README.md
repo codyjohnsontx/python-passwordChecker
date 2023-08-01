@@ -21,4 +21,4 @@ You can run this program from the command line and pass in the passwords you wan
 <h2>Here's an example of how to run the program:</h2>
 python3 script.py password1 password2 password3
 
-<h3>Just replace password1, password2, and password3 with the passwords you want to check.</h3>
+<h3>Just replace password1, password2, and password3 with the passwords you want to check!</h3>
